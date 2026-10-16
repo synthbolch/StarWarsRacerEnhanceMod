@@ -15,12 +15,11 @@ reversible installer. The most useful contributions are:
 1. **Never rename the shipped folders/files.** The community `dinput.dll` and the game
    hardcode paths such as `./assets/replacement_textures`; renaming them silently disables
    the mod. Folder names stay unprefixed.
-2. **Don't prefix repo files with `enhance_`** (an earlier naming scheme was reverted).
-3. **Keep the full package committed.** The optional packs (`optional/hd_8x`,
-   `optional/ai_textures`, `optional/ui_hd`) and the `Ani had a hard life/` folder are
+2. **Keep the full package committed.** The optional packs (`optional/hd_8x`,
+   `optional/ai_textures`, `optional/ui_hd`) are
    tracked on purpose, so `install.sh --hd-8x/--ai-*/--ui-hd` works from a plain clone.
    Don't add them to `.gitignore`.
-4. **Binaries stay binary.** Keep the `*.dll` / `*.png` / `*.TGA` / … markers in
+3. **Binaries stay binary.** Keep the `*.dll` / `*.png` / `*.TGA` / … markers in
    [`.gitattributes`](.gitattributes) so git doesn't try to text-diff or merge assets.
 
 ## Testing
