@@ -1,7 +1,18 @@
 # SWRacer Enhance Mod
 
-All-in-one enhancement mod for **Star Wars Episode I Racer** (Steam/GOG), combining everything
-from the links in `links.txt` plus AI-generated HD textures.
+All-in-one enhancement mod for **Star Wars Episode I Racer** (Steam/GOG). It merges these
+third-party projects with AI-generated HD textures:
+
+- **SW_RACER_RE** v0.17 — tim-tim707, louriccia & contributors · AGPL-3.0 — renderer (`dinput.dll`), shaders, HD fonts, glTF, custom tracks, menus
+- **DSOAL** — kcat (Chris Robinson) · LGPL-2.1 — 3D/HRTF audio
+- **Starfighter's Audio Overhaul** — Starfighter · HD engine sounds
+- **"Dead Simple 2026" fix pack** — superrast / Rast1234 · maxed game configs
+- **swe1r_Smush** — Jérémy Ansel · MIT — `Smush.cfg` (cutscene aspect)
+- **Real-ESRGAN** — Xintao Wang et al. · BSD-3-Clause — HD texture upscaling
+- **SDXL-Lightning** / **controlnet-tile-sdxl-1.0** — ByteDance / xinsir · OpenRAIL++ / Apache-2.0 — optional AI-texture packs
+- optional extras: **dgVoodoo2** (Dege), **Xidi** (Samuel Grossman) · BSD-3-Clause, **ReShade** + **SweetFX**
+
+Authors, links and full license texts: [`SWRacerEnhanceMod/ATTRIBUTION.md`](SWRacerEnhanceMod/ATTRIBUTION.md).
 
 ## Preview
 
@@ -21,7 +32,6 @@ More sheets: [`docs/comparisons/`](docs/comparisons/) (upscales) and
 ## Layout
 
 ```
-links.txt                  the 3 source links used
 SWRacerEnhanceMod/         ← copy this folder's contents into the game directory
   dinput.dll               community improvement mod v0.17 (new OpenGL renderer, F5 menu)
   assets/                  shaders, HD fonts, custom tracks, glTF support...
@@ -140,10 +150,10 @@ folder.
 
 ## Sources
 
-Everything merged from `links.txt` — the "Dead Simple 2026" Steam guide's fix pack (DSOAL 3D audio,
-maxed configs, HD engine sounds), the SW_RACER_RE v0.17 community mod, and the AI HD textures
-(Real-ESRGAN, plus optional SDXL-regenerated packs) — is attributed with authors, links and licenses
-in [`SWRacerEnhanceMod/ATTRIBUTION.md`](SWRacerEnhanceMod/ATTRIBUTION.md).
+Everything merged here — the SW_RACER_RE v0.17 community mod, the "Dead Simple 2026" Steam guide's
+fix pack (DSOAL 3D audio, maxed configs, HD engine sounds), and the AI HD textures (Real-ESRGAN,
+plus optional SDXL-regenerated packs) — is attributed with authors, links and licenses in
+[`SWRacerEnhanceMod/ATTRIBUTION.md`](SWRacerEnhanceMod/ATTRIBUTION.md).
 
 ## Built with
 

@@ -1,5 +1,0 @@
-https://steamcommunity.com/sharedfiles/filedetails/?id=3742768078
-https://github.com/tim-tim707/SW_RACER_RE/tree/master/dinput_hook
-https://github.com/tim-tim707/SW_RACER_RE/releases/tag/v0.17
-
-Game files: /data/games/SteamLibrary/steamapps/common/Star Wars Episode I Racer/
