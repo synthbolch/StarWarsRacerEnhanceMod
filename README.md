@@ -157,8 +157,8 @@ plus optional SDXL-regenerated packs) — is attributed with authors, links and 
 
 ## Built with
 
-This package and its tooling were assembled interactively with **OpenCode** (the
-open-source terminal coding agent, <https://opencode.ai>), across its **v1** and
+This package and its tooling were assembled interactively with [**OpenCode**](https://opencode.ai) (the
+open-source terminal coding agent), across its **v1** and
 **v2** releases. Models used:
 
 - **Coding agent:** **Big Pickle** (provider `opencode`) and **Claude Haiku 5.5**.
