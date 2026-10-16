@@ -3,6 +3,21 @@
 All-in-one enhancement mod for **Star Wars Episode I Racer** (Steam/GOG), combining everything
 from the links in `links.txt` plus AI-generated HD textures.
 
+## Preview
+
+One texture, Anakin's 32×32 face (`TEXID_ank_face_rgb`): **original** pixels scaled up with
+nearest-neighbor, the shipped **Real-ESRGAN 4×**, and the optional **8×** pass.
+
+![ank_face — original | 4× | 8×](docs/comparisons/texid_039_ank_face.png)
+
+The optional AI packs *generate* new detail instead of upscaling it — **original | 4× |
+AI realistic | AI Clone Wars**:
+
+![ank_face — AI realistic | AI Clone Wars](docs/comparisons/ai/ai_texid_0039.png)
+
+More sheets: [`docs/comparisons/`](docs/comparisons/) (upscales) and
+[`docs/comparisons/ai/`](docs/comparisons/ai/) (AI packs).
+
 ## Layout
 
 ```
