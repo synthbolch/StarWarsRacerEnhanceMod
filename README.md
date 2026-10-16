@@ -144,6 +144,11 @@ open-source terminal coding agent, <https://opencode.ai>), across its **v1** and
 
 Model licenses are listed in [`SWRacerEnhanceMod/ATTRIBUTION.md`](SWRacerEnhanceMod/ATTRIBUTION.md).
 
+### Commit attribution
+
+Commit-message and AI-attribution conventions live in [`CONTRIBUTING.md`](CONTRIBUTING.md)
+(for contributors) and [`AGENTS.md`](AGENTS.md) (for coding agents).
+
 ## License
 
 Our own files (`install.*`, `uninstall.*`, `change_textures.*`, `tools/*.py`, docs, comparison
