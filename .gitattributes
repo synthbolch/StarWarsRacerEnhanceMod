@@ -1,0 +1,19 @@
+# Binaries: never text-diff/merge these (keeps git operations fast and safe).
+*.png   binary
+*.tga   binary
+*.TGA   binary
+*.bin   binary
+*.dll   binary
+*.exe   binary
+*.wav   binary
+*.zip   binary
+
+# Keep vendored third-party binaries + generated art out of language stats.
+SWRacerEnhanceMod/assets/**    linguist-vendored
+SWRacerEnhanceMod/optional/**  linguist-vendored
+SWRacerEnhanceMod/optional/reshade/**  linguist-vendored=false
+SWRacerEnhanceMod/LICENSES/**  linguist-documentation
+
+# Optional: uncomment to keep the comparison sheets out of GitHub's auto-generated
+# source archives (the "Source code (zip)" download). Doesn't affect Releases.
+# /docs/comparisons/**  export-ignore

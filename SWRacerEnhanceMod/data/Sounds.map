@@ -1,0 +1,1336 @@
+##############################
+### SOUND MAP FOR ROVER PC ###
+##############################
+
+NUMSOUNDS=1167
+
+
+#### ////////  Environmental:
+#### ....sfx_amb_avalance_loop		loop
+sfx_amb_bg_ship_loop.wav				LOOP
+#### ....sfx_amb_brook_loop		loop
+#### ....sfx_amb_buzz_neon_loop		loop
+sfx_amb_city_aquil_loop.wav				LOOP
+#### ....sfx_amb_city_cor_loop		loop
+sfx_amb_conveyor_loop.wav				LOOP
+#### ....sfx_amb_crackling_ice_loop		loop
+#### ....sfx_amb_crane_winch_01
+#### ....sfx_amb_crane_winch_02
+sfx_amb_crane_winch_03.wav
+sfx_amb_crowd_bazaar_loop.wav				LOOP
+sfx_amb_crowd_big_loop.wav				LOOP
+#### ....sfx_amb_crowd_boos
+#### ....sfx_amb_crowd_cheer_a
+#### ....sfx_amb_crowd_cheer_sky
+#### ....sfx_amb_crowd_distant_loop		loop
+#### ....sfx_amb_crowd_huge_loop		loop
+sfx_amb_deathstar_loop.wav				LOOP
+#### ....sfx_amb_drip_echo_loop		loop
+sfx_amb_earthquake_loop.wav				LOOP
+sfx_amb_generator_hum_loop.wav				LOOP
+#### ....sfx_amb_hangar_loop		loop
+sfx_amb_jungle_a_loop.wav				LOOP
+#### ....sfx_amb_jungle_h_loop		loop
+sfx_amb_jungle_mix_loop.wav				LOOP
+#### ....sfx_amb_junkyard_loop		loop
+#### ....sfx_amb_lapping_loop		loop
+sfx_amb_lava_bubbl_loop.wav				LOOP
+#### ....sfx_amb_lava_flow2_loop		loop
+sfx_amb_lava_flow_loop.wav				LOOP
+#### ....sfx_amb_loadingdock_loop		loop
+sfx_amb_machine_loop.wav				LOOP
+#### ....sfx_amb_peko_a
+sfx_amb_peko_b.wav
+#### ....sfx_amb_platformhover_loop		loop
+sfx_amb_pumpfact_loop.wav				LOOP
+#### ....sfx_amb_rain_loop		loop
+sfx_amb_refinery_loop.wav				LOOP
+#### ....sfx_amb_rumblerock_loop		loop
+sfx_amb_sandcrawler_loop.wav				LOOP
+#### ....sfx_amb_scrape_metal_01
+#### ....sfx_amb_scrape_metal_02
+#### ....sfx_amb_scrape_metal_03
+#### ....sfx_amb_signal_horn_01
+sfx_amb_signal_horn_02.wav
+#### ....sfx_amb_signal_horn_03
+#### ....sfx_amb_sketto_a
+sfx_amb_sketto_b.wav
+#### ....sfx_amb_stationhall_loop		loop
+#### ....sfx_amb_steam_loop		loop
+#### ....sfx_amb_submarine_loop		loop
+sfx_amb_surf_loop.wav				LOOP
+#### ....sfx_amb_trams_loop		loop
+sfx_amb_tunneltram_loop.wav				LOOP
+sfx_amb_underwater_loop.wav				LOOP
+sfx_amb_volcano_loop.wav				LOOP
+sfx_amb_waterpipe_loop.wav				LOOP
+#### ....sfx_amb_watertunnel_loop		loop
+#### ....sfx_amb_watoshop_te_loop		loop
+sfx_amb_wfalls_far_loop.wav				LOOP
+sfx_amb_wfalls_near_loop.wav				LOOP
+sfx_amb_wind_howling_loop.wav				LOOP
+#### ....sfx_amb_wind_metal_loop		loop
+sfx_amb_wind_tat_a_loop.wav				LOOP
+#### ....sfx_door_metal_shut
+sfx_flame_burst_01.wav
+#### ....sfx_flame_burst_02
+sfx_flapping_flags_loop.wav				LOOP
+#### ....sfx_geyser_vent
+sfx_glacier_rumble.wav
+sfx_lake_ignite.wav
+sfx_monks_chant_loop.wav				LOOP
+sfx_monks_chant_loop.wav				LOOP
+sfx_passby_bigship_loop1.wav				LOOP
+#### ....sfx_passby_bigship_loop2		loop
+#### ....sfx_passby_smallship_loop		loop
+#### ....sfx_rusty_creaks_loop		loop
+#### ....sfx_ship_medium_loop		loop
+sfx_thunder_07.wav
+#### ....sfx_thunder_08
+#### ....sfx_thunder_09
+#### ....sfx_vox_bantha_a
+#### ....sfx_vox_bantha_b
+#### ....sfx_vox_bantha_c
+#### ....sfx_vox_dewback
+#### ....sfx_vox_jawa_a
+#### ....sfx_vox_jawa_b
+#### ....sfx_vox_jawa_c
+sfx_vox_mott_growl_01.wav
+#### ....sfx_vox_mott_growl_02
+sfx_vox_mott_growl_loop.wav				LOOP
+sfx_vox_pdroid_b1.wav
+sfx_vox_pdroid_b2.wav
+sfx_vox_pdroid_d1.wav
+sfx_vox_pdroid_d2.wav
+sfx_vox_pdroid_h1.wav
+sfx_vox_pdroid_h2.wav
+sfx_vox_pdroid_i1.wav
+sfx_vox_pdroid_i2.wav
+sfx_vox_pdroid_i3.wav
+#### ....sfx_vox_tauntaun_a
+#### ....sfx_vox_tauntaun_b
+#### ....sfx_vox_tauntaun_c
+#### ....sfx_vox_tusken_1
+#### ....sfx_vox_tusken_2
+#### ....sfx_vox_tusken_3
+#### ....sfx_vox_tusken_4
+sfx_vox_tusken_echo1.wav
+#### ....sfx_vox_tusken_echo2
+#### ....sfx_vox_wampa_a
+#### ....sfx_vox_wampa_b
+#### ....sfx_vox_wampa_c
+sfx_welding_torch_a.wav
+sfx_welding_torch_b.wav
+#### ....sfx_welding_torch_c
+sfx_welding_torch_loop.wav				LOOP
+
+#### //////// Impacts_Explos:
+sfx_crash_firey_a.wav
+sfx_crash_firey_b.wav
+sfx_crash_firey_c.wav
+sfx_crash_gate.wav
+sfx_crash_ice.wav
+sfx_crash_jungle_a.wav
+sfx_crash_jungle_b.wav
+#### ....sfx_crash_metal_boomy
+sfx_crash_metal_med1.wav
+sfx_crash_metal_med2.wav
+#### ....sfx_crash_metal_scrape
+#### ....sfx_crash_metal_short
+sfx_crash_rock.wav
+sfx_crash_wood.wav
+sfx_explo_gas_01.wav
+sfx_explo_gas_02.wav
+sfx_explo_gas_03.wav
+#### ....sfx_explo_muffled_01
+#### ....sfx_explo_muffled_05
+#### ....sfx_explo_muffled_06
+sfx_impact_mellow.wav
+sfx_impact_meteor_fall_01.wav
+#### ....sfx_impact_meteor_fall_02
+#### ....sfx_impact_meteor_fall_03
+sfx_impact_snow.wav
+#### ....sfx_surface_branches_loop		loop
+#### ....sfx_surface_gravel_loop		loop
+#### ....sfx_surface_metalgrid_loop		loop
+#### ....sfx_surface_mud_loop		loop
+#### ....sfx_surface_snow_loop		loop
+#### ....sfx_surface_steelecho_loop		loop
+#### ....sfx_surface_stone_loop		loop
+sfx_surface_water_loop.wav				LOOP
+#### ....sfx_surface_woodbridg_loop		loop
+
+#### ////////  Interface:
+sfx_beeps_misc_a.wav
+sfx_beeps_misc_b.wav
+sfx_beeps_misc_c.wav
+sfx_button_no.wav
+sfx_button_yes.wav
+#### ....sfx_buzzer_misc_t
+sfx_buzzer_misc_t_loop.wav				LOOP
+#### ....sfx_chorus_01
+#### ....sfx_chorus_01a
+#### ....sfx_chorus_01b
+#### ....sfx_chorus_01c
+#### ....sfx_chorus_02
+#### ....sfx_chorus_full
+#### ....sfx_coin_roll
+sfx_coin_roll_short.wav
+sfx_holo_off.wav
+sfx_holo_on.wav
+#### ....sfx_holosteady_loop1		loop
+#### ....sfx_holosteady_loop2		loop
+sfx_holosteady_loop3.wav				LOOP
+sfx_klaxon1_loop.wav				LOOP
+sfx_klaxon2_loop.wav				LOOP
+sfx_klaxon3_loop.wav				LOOP
+#### ....sfx_parts_rack_hiss_loop		loop
+sfx_parts_rack_loop.wav				LOOP
+#### ....sfx_payoff_bell
+sfx_select_pulse1.wav
+sfx_select_softswitch1.wav
+sfx_select_softswitch2.wav
+sfx_select_softswitch3.wav
+sfx_select_softswitch4.wav
+sfx_start_beep.wav
+sfx_start_game.wav
+sfx_switch_misc_t1.wav
+sfx_switch_misc_t2.wav
+sfx_watto_wings_loop.wav				LOOP
+
+#### ////////  Misc_SFX:
+sfx_antigravity_exit.wav
+sfx_asteroid_beam_loop.wav				LOOP
+sfx_asteroid_beam_start.wav
+sfx_poof1.wav
+sfx_poof2.wav
+sfx_poof3.wav
+sfx_poof4.wav
+sfx_vacuum_tunnel_enter.wav
+sfx_weapon_tusken_gun.wav
+sfx_whoosh_4501.wav
+sfx_whoosh_4704.wav
+#### ....sfx_whoosh_4801
+sfx_whoosh_4802.wav
+sfx_whoosh_4803.wav
+sfx_whoosh_4804.wav
+sfx_whoosh_4901.wav
+sfx_whoosh_4902.wav
+sfx_whoosh_5001.wav
+sfx_whoosh_5102.wav
+#### ....sfx_whoosh_5103
+
+#### //////// Pods_Engines:
+#### ....sfx_pod_ani_buzzy_b_loop		loop
+#### ....sfx_pod_ani_shift1
+#### ....sfx_pod_ani_shift2
+#### ....sfx_pod_ani_shift3
+#### ....sfx_pod_ani_shift4
+sfx_pod_ani_shift5.wav
+#### ....sfx_pod_ani_start
+sfx_pod_ani_thrusters_a.wav
+sfx_pod_ani_thrusters_b.wav
+sfx_pod_binder_activate_a.wav
+#### ....sfx_pod_binder_idle_loop		loop
+sfx_pod_binder_start_b.wav
+sfx_pod_binder_steady_loop.wav				LOOP
+sfx_pod_chop_a_loop.wav				LOOP
+sfx_pod_chop_b_loop.wav				LOOP
+sfx_pod_jet_steady_loop.wav				LOOP
+#### ....sfx_pod_seb_flame
+sfx_pod_slide_down.wav
+sfx_pod_slide_up.wav
+sfx_pod_steady_hi_a_loop.wav				LOOP
+sfx_pod_steady_hi_b_loop.wav				LOOP
+sfx_pod_steady_lo_c_loop.wav				LOOP
+sfx_pod_varipitch_d_loop.wav				LOOP
+
+#### ////////  Pods_Misc:
+#### ....sfx_alarm_roj_a_loop		loop
+#### ....sfx_alarm_roj_b_loop		loop
+sfx_pod_airbrakes_off.wav
+sfx_pod_airbrakes_on.wav
+sfx_pod_ani_flaps_a.wav
+sfx_pod_ani_flaps_b.wav
+sfx_pod_cockpit_alarm_loop.wav				LOOP
+#### ....sfx_pod_cockpit_telem_loop		loop
+sfx_pod_coolant_spray_loop.wav				LOOP
+sfx_pod_coolant_spray_on.wav
+#### ....sfx_pod_drop_metal
+sfx_pod_flamethrower_loop.wav				LOOP
+sfx_pod_flamethrower_on.wav
+sfx_pod_flare_fire.wav
+sfx_pod_switch_a.wav
+sfx_pod_switch_b.wav
+sfx_pod_wizby1.wav
+sfx_pod_wizby2.wav
+sfx_pod_wizby3.wav
+
+#### //////// Music Loops:
+anakinloop.wav				LOOP
+conflictloop.wav			LOOP
+#mx91podloop1.wav				LOOP
+podloop1.wav				LOOP
+sebulbaloop.wav				LOOP
+escapeloop.wav				LOOP
+Battleloop1.wav			        LOOP
+BattleLoop2.wav			        LOOP
+ConflictLoop2.wav				LOOP
+ConflictLoop3.wav				LOOP
+DestroyLoop.wav					LOOP
+DroidLoop1.wav			        LOOP
+DroidLoop2.wav			        LOOP
+PsycheLoop.wav			        LOOP
+bossloop.wav				LOOP
+
+#### //////// Music Stingers:
+m010podanni.wav
+m012podboss.wav
+#### ....m031wipeout1			verylong
+m032wipeout2.wav
+#m033wipeout3.wav
+m032wipeout3.wav
+#### ....m091didbad			verylong
+m092didgood.wav
+#### ....m099awards1			verylong
+m099awards2.wav
+mb00aquilarisintro.wav
+me00spiceintro.wav
+mt01desert.wav
+#### ....mt04tuscans			verylong
+#### ....mt05jawas			verylong
+#### ....mx03skijump			verylong
+#### ....mx04skiland			verylong
+mx091lavacaves.wav
+
+#### /**** some Simultaneous looping engine sounds (one per vehicle, plus some extra) ****/
+#### /**** Note that these engine noises are IN ORDER by character, as in tmTest.h ****/
+
+#### SFX_AI_ENGINE_LOOPS_BEGIN 166
+#sfx_pod_steady_hi_a_loop.wav				LOOP
+#sfx_pod_steady_hi_b_loop.wav				LOOP
+#orig#sfx_pod_steady_lo_c_loop.wav				LOOP
+#sfx_pod_varipitch_d_loop.wav				LOOP
+sfx_pod_steady_hi_a_loop.wav				LOOP
+sfx_pod_steady_hi_b_loop.wav				LOOP
+sfx_pod_ani_buzzy_b_loop.wav		LOOP
+sfx_pod_varipitch_d_loop.wav				LOOP
+
+#### /**** Player 1 engine loops ****/
+#### SFX_PLAYER1_ENGINE_LOOPS_BEGIN 170
+sfx_pod_chop_a_combo_loop.wav			LOOP
+sfx_pod_chop_b_combo_loop.wav			LOOP
+sfx_pod_maw_slow_loop.wav				LOOP
+sfx_pod_steady_lo_c_loop.wav			LOOP
+sfx_pod_jet_steady_loop.wav				LOOP
+sfx_amb_wind_howling_loop.wav			LOOP
+
+#### /**** Player 1 engine loops ****/
+#### SFX_PLAYER2_ENGINE_LOOPS_BEGIN 176
+sfx_amb_wind_howling_loop.wav				LOOP
+sfx_pod_steady_hi_a_loop.wav				LOOP
+sfx_pod_steady_hi_b_loop.wav				LOOP
+sfx_pod_steady_lo_c_loop.wav				LOOP
+sfx_pod_jet_steady_loop.wav					LOOP
+sfx_amb_wind_howling_loop.wav				LOOP
+
+#### /**** watto humming ****/
+wthm002.wav
+
+#### /**** taunting a second time ****/
+#### SFX_PODRACER_BANTER_BEGIN 183
+asui023.wav
+tpui025.wav
+sbui024.wav
+rtui026.wav
+abui027.wav
+mhui028.wav
+brui029.wav
+wsui030.wav
+mgui031.wav
+eeui032.wav
+dbui033.wav
+ggui034.wav
+chui035.wav
+emui036.wav
+nkui037.wav
+bbui038.wav
+brui039.wav
+omui040.wav
+fsui041.wav
+bqui042.wav
+spui043.wav
+tdui044.wav
+bnui050.wav
+sbui046.wav
+sbui047.wav
+sbui048.wav
+sbui049.wav
+sbui050.wav
+
+
+### Voice files from VoicePrep
+
+NUMVOICES=956
+
+absp001.wav
+absp002.wav
+absp003.wav
+absp004.wav
+absp005.wav
+absp006.wav
+absp007.wav
+absp008.wav
+absp009.wav
+absp010.wav
+absp011.wav
+absp012a.wav
+absp013a.wav
+absp014.wav
+absp015.wav
+absp016.wav
+absp017.wav
+absp018.wav
+absp019.wav
+absp020.wav
+absp021.wav
+absp022.wav
+absp023.wav
+absp024.wav
+absp025.wav
+abui001.wav
+abui002.wav
+abui003.wav
+abui005.wav
+abui006.wav
+abui007.wav
+abui008.wav
+abui009.wav
+abui011.wav
+abui012.wav
+abui014.wav
+abui018.wav
+arsp001.wav
+arsp002.wav
+arsp003.wav
+arsp004.wav
+arsp005.wav
+arsp006.wav
+arsp007.wav
+arsp008.wav
+arsp009.wav
+arsp010.wav
+arsp011.wav
+arsp012a.wav
+arsp013a.wav
+arsp014.wav
+arsp015.wav
+arsp016.wav
+arsp017.wav
+arsp018.wav
+arsp019.wav
+arsp020.wav
+arsp021.wav
+arsp022.wav
+arsp023.wav
+arsp024.wav
+arsp025.wav
+arui001.wav
+arui002.wav
+arui003.wav
+arui005.wav
+arui006.wav
+arui007.wav
+arui008.wav
+arui009.wav
+arui011.wav
+arui012.wav
+arui014.wav
+arui018.wav
+assp001.wav
+assp002.wav
+assp003.wav
+assp004.wav
+assp005.wav
+assp006.wav
+assp007.wav
+assp008.wav
+assp009.wav
+assp010.wav
+assp011.wav
+assp012.wav
+assp013.wav
+assp014.wav
+assp015.wav
+assp016.wav
+assp017.wav
+assp018.wav
+assp019.wav
+assp020.wav
+assp021.wav
+assp022.wav
+assp023.wav
+assp024.wav
+assp025.wav
+asui001.wav
+asui002.wav
+asui003.wav
+asui005.wav
+asui006.wav
+asui007.wav
+asui008.wav
+asui009.wav
+asui011.wav
+asui012.wav
+asui014.wav
+asui018.wav
+bbsp001.wav
+bbsp002.wav
+bbsp003.wav
+bbsp004.wav
+bbsp005.wav
+bbsp006.wav
+bbsp007.wav
+bbsp008.wav
+bbsp009.wav
+bbsp010.wav
+bbsp011.wav
+bbsp012a.wav
+bbsp013a.wav
+bbsp014.wav
+bbsp015.wav
+bbsp016.wav
+bbsp017.wav
+bbsp018.wav
+bbsp019.wav
+bbsp020.wav
+bbsp021.wav
+bbsp022.wav
+bbsp023.wav
+bbsp024.wav
+bbsp025.wav
+bbui001.wav
+bbui002.wav
+bbui003.wav
+bbui005.wav
+bbui006.wav
+bbui007.wav
+bbui008.wav
+bbui009.wav
+bbui011.wav
+bbui012.wav
+bbui014.wav
+bbui018.wav
+bnsp001.wav
+bnsp002.wav
+bnsp003.wav
+bnsp004.wav
+bnsp005.wav
+bnsp006.wav
+bnsp007.wav
+bnsp008.wav
+bnsp009.wav
+bnsp010.wav
+bnsp011.wav
+bnsp012a.wav
+bnsp013a.wav
+bnsp014.wav
+bnsp015.wav
+bnsp016.wav
+bnsp017.wav
+bnsp018.wav
+bnsp019.wav
+bnsp020.wav
+bnsp021.wav
+bnsp022.wav
+bnsp023.wav
+bnsp024.wav
+bnsp025.wav
+bnui001.wav
+bnui002.wav
+bnui003.wav
+bnui005.wav
+bnui006.wav
+bnui007.wav
+bnui008.wav
+bnui009.wav
+bnui011.wav
+bnui012.wav
+bnui014.wav
+bnui018.wav
+bqsp001.wav
+bqsp002.wav
+bqsp003.wav
+bqsp004.wav
+bqsp005.wav
+bqsp006.wav
+bqsp007.wav
+bqsp008.wav
+bqsp009.wav
+bqsp010.wav
+bqsp011.wav
+bqsp012a.wav
+bqsp013a.wav
+bqsp014.wav
+bqsp015.wav
+bqsp016.wav
+bqsp017.wav
+bqsp018.wav
+bqsp019.wav
+bqsp020.wav
+bqsp021.wav
+bqsp022.wav
+bqsp023.wav
+bqsp024.wav
+bqsp025.wav
+bqui001.wav
+bqui002.wav
+bqui003.wav
+bqui005.wav
+bqui006.wav
+bqui007.wav
+bqui008.wav
+bqui009.wav
+bqui011.wav
+bqui012.wav
+bqui014.wav
+bqui018.wav
+brsp001.wav
+brsp002.wav
+brsp003.wav
+brsp004.wav
+brsp005.wav
+brsp006.wav
+brsp007.wav
+brsp008.wav
+brsp009.wav
+brsp010.wav
+brsp011.wav
+brsp012a.wav
+brsp013a.wav
+brsp014.wav
+brsp015.wav
+brsp016.wav
+brsp017.wav
+brsp018.wav
+brsp019.wav
+brsp020.wav
+brsp021.wav
+brsp022.wav
+brsp023.wav
+brsp024.wav
+brsp025.wav
+brui001.wav
+brui002.wav
+brui003.wav
+brui005.wav
+brui006.wav
+brui007.wav
+brui008.wav
+brui009.wav
+brui011.wav
+brui012.wav
+brui014.wav
+brui018.wav
+chsp001.wav
+chsp002.wav
+chsp003.wav
+chsp004.wav
+chsp005.wav
+chsp006.wav
+chsp007.wav
+chsp008.wav
+chsp009.wav
+chsp010.wav
+chsp011.wav
+chsp012a.wav
+chsp013a.wav
+chsp014.wav
+chsp015.wav
+chsp016.wav
+chsp017.wav
+chsp018.wav
+chsp019.wav
+chsp020.wav
+chsp021.wav
+chsp022.wav
+chsp023.wav
+chsp024.wav
+chsp025.wav
+chui001.wav
+chui002.wav
+chui003.wav
+chui005.wav
+chui006.wav
+chui007.wav
+chui008.wav
+chui009.wav
+chui011.wav
+chui012.wav
+chui014.wav
+chui018.wav
+dbsp001.wav
+dbsp002.wav
+dbsp003.wav
+dbsp004.wav
+dbsp005.wav
+dbsp006.wav
+dbsp007.wav
+dbsp008.wav
+dbsp009.wav
+dbsp010.wav
+dbsp011.wav
+dbsp012a.wav
+dbsp013a.wav
+dbsp014.wav
+dbsp015.wav
+dbsp016.wav
+dbsp017.wav
+dbsp018.wav
+dbsp019.wav
+dbsp020.wav
+dbsp021.wav
+dbsp022.wav
+dbsp023.wav
+dbsp024.wav
+dbsp025.wav
+dbui001.wav
+dbui002.wav
+dbui003.wav
+dbui005.wav
+dbui006.wav
+dbui007.wav
+dbui008.wav
+dbui009.wav
+dbui011.wav
+dbui012.wav
+dbui014.wav
+dbui018.wav
+eesp001.wav
+eesp002.wav
+eesp003.wav
+eesp004.wav
+eesp005.wav
+eesp006.wav
+eesp007.wav
+eesp008.wav
+eesp009.wav
+eesp010.wav
+eesp011.wav
+eesp012a.wav
+eesp013a.wav
+eesp014.wav
+eesp015.wav
+eesp016.wav
+eesp017.wav
+eesp018.wav
+eesp019.wav
+eesp020.wav
+eesp021.wav
+eesp022.wav
+eesp023.wav
+eesp024.wav
+eesp025.wav
+eeui001.wav
+eeui002.wav
+eeui003.wav
+eeui005.wav
+eeui006.wav
+eeui007.wav
+eeui008.wav
+eeui009.wav
+eeui011.wav
+eeui012.wav
+eeui014.wav
+eeui018.wav
+emsp001.wav
+emsp002.wav
+emsp003.wav
+emsp004.wav
+emsp005.wav
+emsp006.wav
+emsp007.wav
+emsp008.wav
+emsp009.wav
+emsp010.wav
+emsp011.wav
+emsp012a.wav
+emsp013a.wav
+emsp014.wav
+emsp015.wav
+emsp016.wav
+emsp017.wav
+emsp018.wav
+emsp019.wav
+emsp020.wav
+emsp021.wav
+emsp022.wav
+emsp023.wav
+emsp024.wav
+emsp025.wav
+emui001.wav
+emui002.wav
+emui003.wav
+emui005.wav
+emui006.wav
+emui007.wav
+emui008.wav
+emui009.wav
+emui011.wav
+emui012.wav
+emui014.wav
+emui018.wav
+fssp001.wav
+fssp002.wav
+fssp003.wav
+fssp004.wav
+fssp005.wav
+fssp006.wav
+fssp007.wav
+fssp008.wav
+fssp009.wav
+fssp010.wav
+fssp011.wav
+fssp012a.wav
+fssp013a.wav
+fssp014.wav
+fssp015.wav
+fssp016.wav
+fssp017.wav
+fssp018.wav
+fssp019.wav
+fssp020.wav
+fssp021.wav
+fssp022.wav
+fssp023.wav
+fssp024.wav
+fssp025.wav
+fsui001.wav
+fsui002.wav
+fsui003.wav
+fsui005.wav
+fsui006.wav
+fsui007.wav
+fsui008.wav
+fsui009.wav
+fsui011.wav
+fsui012.wav
+fsui014.wav
+fsui018.wav
+gaig039.wav
+gali140.wav
+gali142.wav
+gali144.wav
+gali146.wav
+gali148.wav
+gali150.wav
+gali156.wav
+gali157.wav
+gali160.wav
+ggsp001.wav
+ggsp002.wav
+ggsp003.wav
+ggsp004.wav
+ggsp005.wav
+ggsp006.wav
+ggsp007.wav
+ggsp008.wav
+ggsp009.wav
+ggsp010.wav
+ggsp011.wav
+ggsp012a.wav
+ggsp013a.wav
+ggsp014.wav
+ggsp015.wav
+ggsp016.wav
+ggsp017.wav
+ggsp018.wav
+ggsp019.wav
+ggsp020.wav
+ggsp021.wav
+ggsp022.wav
+ggsp023.wav
+ggsp024.wav
+ggsp025.wav
+ggui001.wav
+ggui002.wav
+ggui003.wav
+ggui005.wav
+ggui006.wav
+ggui007.wav
+ggui008.wav
+ggui009.wav
+ggui011.wav
+ggui012.wav
+ggui014.wav
+ggui018.wav
+mgsp001.wav
+mgsp002.wav
+mgsp003.wav
+mgsp004.wav
+mgsp005.wav
+mgsp006.wav
+mgsp007.wav
+mgsp008.wav
+mgsp009.wav
+mgsp010.wav
+mgsp011.wav
+mgsp012a.wav
+mgsp013a.wav
+mgsp014.wav
+mgsp015.wav
+mgsp016.wav
+mgsp017.wav
+mgsp018.wav
+mgsp019.wav
+mgsp020.wav
+mgsp021.wav
+mgsp022.wav
+mgsp023.wav
+mgsp024.wav
+mgsp025.wav
+mgui001.wav
+mgui002.wav
+mgui003.wav
+mgui005.wav
+mgui006.wav
+mgui007.wav
+mgui008.wav
+mgui009.wav
+mgui011.wav
+mgui012.wav
+mgui014.wav
+mgui018.wav
+mhsp001.wav
+mhsp002.wav
+mhsp003.wav
+mhsp004.wav
+mhsp005.wav
+mhsp006.wav
+mhsp007.wav
+mhsp008.wav
+mhsp009.wav
+mhsp010.wav
+mhsp011.wav
+mhsp012a.wav
+mhsp013a.wav
+mhsp014.wav
+mhsp015.wav
+mhsp016.wav
+mhsp017.wav
+mhsp018.wav
+mhsp019.wav
+mhsp020.wav
+mhsp021.wav
+mhsp022.wav
+mhsp023.wav
+mhsp024.wav
+mhsp025.wav
+mhui001.wav
+mhui002.wav
+mhui003.wav
+mhui005.wav
+mhui006.wav
+mhui007.wav
+mhui008.wav
+mhui009.wav
+mhui011.wav
+mhui012.wav
+mhui014.wav
+mhui018.wav
+nksp001.wav
+nksp002.wav
+nksp003.wav
+nksp004.wav
+nksp005.wav
+nksp006.wav
+nksp007.wav
+nksp008.wav
+nksp009.wav
+nksp010.wav
+nksp011.wav
+nksp012a.wav
+nksp013a.wav
+nksp014.wav
+nksp015.wav
+nksp016.wav
+nksp017.wav
+nksp018.wav
+nksp019.wav
+nksp020.wav
+nksp021.wav
+nksp022.wav
+nksp023.wav
+nksp024.wav
+nksp025.wav
+nkui001.wav
+nkui002.wav
+nkui003.wav
+nkui005.wav
+nkui006.wav
+nkui007.wav
+nkui008.wav
+nkui009.wav
+nkui011.wav
+nkui012.wav
+nkui014.wav
+nkui018.wav
+omsp001.wav
+omsp002.wav
+omsp003.wav
+omsp004.wav
+omsp005.wav
+omsp006.wav
+omsp007.wav
+omsp008.wav
+omsp009.wav
+omsp010.wav
+omsp011.wav
+omsp012a.wav
+omsp013a.wav
+omsp014.wav
+omsp015.wav
+omsp016.wav
+omsp017.wav
+omsp018.wav
+omsp019.wav
+omsp020.wav
+omsp021.wav
+omsp022.wav
+omsp023.wav
+omsp024.wav
+omsp025.wav
+omui001.wav
+omui002.wav
+omui003.wav
+omui005.wav
+omui006.wav
+omui007.wav
+omui008.wav
+omui009.wav
+omui011.wav
+omui012.wav
+omui014.wav
+omui018.wav
+raac001.wav
+raac002.wav
+raac003.wav
+raac004.wav
+raig010.wav
+rali001.wav
+rali002a.wav
+rali003a.wav
+rali004a.wav
+rali005a.wav
+rali006a.wav
+rali007a.wav
+rali008a.wav
+rali009a.wav
+rali010a.wav
+rali011a.wav
+rali012a.wav
+rali013a.wav
+rali014a.wav
+rali015a.wav
+rali016a.wav
+rali017a.wav
+rali018a.wav
+rali019a.wav
+rali020a.wav
+rali021a.wav
+rali022a.wav
+rali023a.wav
+rali024a.wav
+rali139.wav
+rali141.wav
+rali143.wav
+rali145.wav
+rali147.wav
+rali149.wav
+rali151.wav
+rali153.wav
+rali155.wav
+rali158.wav
+rali159.wav
+rali162.wav
+rali164.wav
+rtsp001.wav
+rtsp002.wav
+rtsp003.wav
+rtsp004.wav
+rtsp005.wav
+rtsp006.wav
+rtsp007.wav
+rtsp008.wav
+rtsp009.wav
+rtsp010.wav
+rtsp011.wav
+rtsp012a.wav
+rtsp013a.wav
+rtsp014.wav
+rtsp015.wav
+rtsp016.wav
+rtsp017.wav
+rtsp018.wav
+rtsp019.wav
+rtsp020.wav
+rtsp021.wav
+rtsp022.wav
+rtsp023.wav
+rtsp024.wav
+rtsp025.wav
+rtui001.wav
+rtui002.wav
+rtui003.wav
+rtui005.wav
+rtui006.wav
+rtui007.wav
+rtui008.wav
+rtui009.wav
+rtui011.wav
+rtui012.wav
+rtui014.wav
+rtui018.wav
+sbsp001.wav
+sbsp002.wav
+sbsp003.wav
+sbsp004.wav
+sbsp005.wav
+sbsp006.wav
+sbsp007.wav
+sbsp008.wav
+sbsp009.wav
+sbsp010.wav
+sbsp011.wav
+sbsp012a.wav
+sbsp013a.wav
+sbsp014.wav
+sbsp015.wav
+sbsp016.wav
+sbsp017.wav
+sbsp018.wav
+sbsp019.wav
+sbsp020.wav
+sbsp021.wav
+sbsp022.wav
+sbsp023.wav
+sbsp024.wav
+sbsp025.wav
+sbui001.wav
+sbui002.wav
+sbui003.wav
+sbui005.wav
+sbui006.wav
+sbui007.wav
+sbui008.wav
+sbui009.wav
+sbui011.wav
+sbui012.wav
+sbui014.wav
+sbui018.wav
+spsp001.wav
+spsp002.wav
+spsp003.wav
+spsp004.wav
+spsp005.wav
+spsp006.wav
+spsp007.wav
+spsp008.wav
+spsp009.wav
+spsp010.wav
+spsp011.wav
+spsp012a.wav
+spsp013a.wav
+spsp014.wav
+spsp015.wav
+spsp016.wav
+spsp017.wav
+spsp018.wav
+spsp019.wav
+spsp020.wav
+spsp021.wav
+spsp022.wav
+spsp023.wav
+spsp024.wav
+spsp025.wav
+spui001.wav
+spui002.wav
+spui003.wav
+spui005.wav
+spui006.wav
+spui007.wav
+spui008.wav
+spui009.wav
+spui011.wav
+spui012.wav
+spui014.wav
+spui018.wav
+tdsp001.wav
+tdsp002.wav
+tdsp003.wav
+tdsp004.wav
+tdsp005.wav
+tdsp006.wav
+tdsp007.wav
+tdsp008.wav
+tdsp009.wav
+tdsp010.wav
+tdsp011.wav
+tdsp012a.wav
+tdsp013a.wav
+tdsp014.wav
+tdsp015.wav
+tdsp016.wav
+tdsp017.wav
+tdsp018.wav
+tdsp019.wav
+tdsp020.wav
+tdsp021.wav
+tdsp022.wav
+tdsp023.wav
+tdsp024.wav
+tdsp025.wav
+tdui001.wav
+tdui002.wav
+tdui003.wav
+tdui005.wav
+tdui006.wav
+tdui007.wav
+tdui008.wav
+tdui009.wav
+tdui011.wav
+tdui012.wav
+tdui014.wav
+tdui018.wav
+tpsp001.wav
+tpsp002.wav
+tpsp003.wav
+tpsp004.wav
+tpsp005.wav
+tpsp006.wav
+tpsp007.wav
+tpsp008.wav
+tpsp009.wav
+tpsp010.wav
+tpsp011.wav
+tpsp012a.wav
+tpsp013a.wav
+tpsp014.wav
+tpsp015.wav
+tpsp016.wav
+tpsp017.wav
+tpsp018.wav
+tpsp019.wav
+tpsp020.wav
+tpsp021.wav
+tpsp022.wav
+tpsp023.wav
+tpsp024.wav
+tpsp025.wav
+tpui001.wav
+tpui002.wav
+tpui003.wav
+tpui005.wav
+tpui006.wav
+tpui007.wav
+tpui008.wav
+tpui009.wav
+tpui011.wav
+tpui012.wav
+tpui014.wav
+tpui018.wav
+wssp001.wav
+wssp002.wav
+wssp003.wav
+wssp004.wav
+wssp005.wav
+wssp006.wav
+wssp007.wav
+wssp008.wav
+wssp009.wav
+wssp010.wav
+wssp011.wav
+wssp012a.wav
+wssp013a.wav
+wssp014.wav
+wssp015.wav
+wssp016.wav
+wssp017.wav
+wssp018.wav
+wssp019.wav
+wssp020.wav
+wssp021.wav
+wssp022.wav
+wssp023.wav
+wssp024.wav
+wssp025.wav
+wsui001.wav
+wsui002.wav
+wsui003.wav
+wsui005.wav
+wsui006.wav
+wsui007.wav
+wsui008.wav
+wsui009.wav
+wsui011.wav
+wsui012.wav
+wsui014.wav
+wsui018.wav
+wtui001.wav
+wtui002.wav
+wtui003.wav
+wtui004.wav
+wtui005.wav
+wtui006.wav
+wtui007.wav
+wtui008.wav
+wtui009.wav
+wtui010.wav
+wtui011.wav
+wtui012.wav
+wtui013.wav
+wtui014.wav
+wtui015.wav
+wtui016.wav
+wtui017.wav
+wtui018.wav
+wtui019.wav
+wtui020.wav
+wtui021.wav
+wtui022.wav
+wtui023.wav
+wtui024.wav
+wtui025.wav
+wtui029.wav
+wtui030.wav
+wtui031.wav
+wtui032.wav
+wtui033.wav
+wtui034.wav
+wtui035.wav
+wtui036.wav
+wtui037.wav
+wtui038.wav
+wtui039.wav
+wtui040.wav
+wtui041.wav
+wtui042.wav
+wtui043.wav
+wtui044.wav
+wtui045.wav
+wtui046.wav
+wtui047.wav
+wtui048.wav
+wtui049.wav
+wtui050.wav
+wtui051.wav
+wtui052.wav
+wtui053.wav
+wtui054.wav
+wtui055.wav
+wtui056.wav
+
+
+end.
+
+

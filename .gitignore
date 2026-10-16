@@ -1,0 +1,23 @@
+# The full package (including optional/hd_8x, ai_textures, ui_hd) is committed
+# as-is so install.sh/change_textures.sh work directly from a clone.
+
+# --- Release/build scratch ---
+/dist/
+/release/
+
+# --- Pipeline scratch (if run inside the repo) ---
+/extracted/
+/final/
+/final_8x/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+
+# --- Logs ---
+*.log
+hook.log
+crashes/
+
+# --- Optional ReShade add-on (downloaded by the helper, never committed) ---
+ReShade_Setup_*.exe

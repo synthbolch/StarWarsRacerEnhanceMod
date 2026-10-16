@@ -1,0 +1,23 @@
+dgVoodoo2 — redistribution notice
+=================================
+
+Project : dgVoodoo2 (Glide/DirectX -> D3D11/12 wrapper)
+Author  : Dege — Copyright (c) 2013-2026
+Links   : https://github.com/dege-diosg/dgVoodoo2
+          https://www.dege.fw.hu/dgVoodoo2/ReadmeGeneral
+
+Files shipped (optional/, unmodified): DDraw.dll, D3DImm.dll, dgVoodooCpl.exe,
+dgVoodoo.conf
+
+Redistribution rights, quoted from the official Readme:
+
+    - You can freely ship your game or game mod with individual dgVoodoo
+      files included.
+    - If you want to host or re-distribute dgVoodoo as a standalone component
+      for any reason then you must provide the full .zip package.
+    - You cannot bundle dgVoodoo inside launchers or frameworks, for general
+      use across multiple applications.
+
+This package is a game mod and ships the individual dgVoodoo files unmodified,
+as expressly permitted. If you re-host these files on their own, you must
+instead distribute the complete official .zip package.
